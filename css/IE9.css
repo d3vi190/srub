@@ -1,0 +1,43 @@
+.green-btn {
+	background-color: #00A200;
+}
+
+.green-btn:hover {
+	background-color: #2EBE42;
+}
+
+.red-btn {
+	background-color: #CE0C05;
+}
+
+.red-btn:hover {
+	background-color: #E25A56;
+}
+
+.factors .num1 {
+	top: 150px;
+	margin-left: -440px;
+}
+
+.factors .num2 {
+	top: 150px;
+	margin-left: -154px;
+}
+
+.factors .num3 {
+	top: 150px;
+	margin-left: 85px;
+}
+
+.factors .num4 {
+	top: 150px;
+	margin-left: 366px;
+}
+
+.factors .num5 {
+	margin-left: -311px;
+}
+
+.factors .num6 {
+	margin-left: -42px;
+}
